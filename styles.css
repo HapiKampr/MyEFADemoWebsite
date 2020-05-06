@@ -60,19 +60,19 @@ body {
     font-size: 18pt;
   }
   h2{
-    font-family: 'Acme', sans-serif
+    font-family: 'Acme', sans-serif;
     color: darkred;
   }
   .main{
     text-align: center;
   }
   #about{
-    margin-top: 50px
+    margin-top: 50px;
     display: inline-block;
   }
   #about-picture {
     width: 30vw;
-    font: left;
+    float: left;
   }
   #profile-pic {
     height: 300px;
